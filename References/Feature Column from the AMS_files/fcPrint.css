@@ -1,0 +1,221 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #FFF url(http://www.ams.org/images/transparent.gif) no-repeat;
+	font: 12pt "Palatino Linotype", "Times New Roman", Times, serif;
+	color: #000;
+}
+
+img {
+	border-style: none;
+}
+.glancePics {
+	margin-bottom: 5px;
+	margin-top: 0px;
+}
+#rounded {
+	-moz-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #666;
+	width: 975px;
+	background: #FFF;
+	margin: 25px auto;
+	padding: 5px;
+} 
+
+.introText {
+	font-size: 0.8em;
+}
+.welcome {
+	color: #990000;
+	background: #FFF;
+	font: 1.0em Verdana, Geneva, sans-serif;
+	border-bottom: 2px solid #003F82;
+}
+.glance {
+	color: #003F82;
+	background: #FFF;
+	font: 1.3em Verdana, Geneva, sans-serif;
+	border-bottom: 2px solid #C4E36E;
+}
+p {
+	font: 12pt "Palatino Linotype", "Times New Roman", Times, serif;
+	line-height: 1.3em;
+}
+#column1 {
+	border-right: 1px solid #D4D0C8;
+	border-bottom: 1px solid #D4D0C8;
+	padding-right: 5px;
+}
+#column2 {
+	display: none;
+	visibility: hidden;
+}
+#column3 {
+	border-bottom: 1px solid #D4D0C8;
+	padding-left: 5px;
+}
+#fcThisMonth {
+	margin-top: 20px;
+	border-style: none;
+	color: #900000;
+	margin-left: 5px;
+	font-size: 0.9em;
+}
+#fcArchiveList li {
+	list-style: none;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 0.8em;
+	text-align: left;
+	margin-bottom: 5px;
+	text-decoration: none;
+}
+#fcSubjectList li {
+	list-style: none;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 0.8em;
+	text-align: left;
+	margin-bottom: 5px;
+	text-decoration: none;
+}
+#fcSubjectList li a:hover {
+	border-bottom: 1px dashed #D4D0C8;	
+}
+#pullQuote {
+	color: #666;
+	font-style: italic;
+}
+/* Search styles */
+.searchBox {
+	display: none;
+	visibility: hidden;
+}
+#searchBackground {
+	display: none;
+	visibility: hidden;
+}
+#searchInput {
+	display: none;
+	visibility: hidden;
+}
+#searchButton {
+	display: none;
+	visibility: hidden;
+}
+#fcSearch {
+	display: none;
+	visibility: hidden;
+}
+/* End search styles */
+#author {
+	font-size: 0.8em;
+	text-align: right;
+}
+#fcAuthorPic {
+	background: #FFF;
+	padding: 4px;
+	border: 1px solid #D4D0C8;
+}
+#authorTitleBlock {
+	clear: both;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+#shareThis {
+	display: none;
+	visibility: hidden;
+}
+#fcComments {
+	width: 85%;
+	margin-right: auto;
+	margin-left: auto;
+	background: #EEE;
+	padding: 10px;
+	border: 1px solid #617681;
+}
+.hidden { display: none; }
+.unhidden { display: block; }
+#ribbon2 {
+	display: none;
+	visibility: hidden;	
+}
+#ribbon a:link {
+	display: none;
+	visibility: hidden;
+}
+#ribbon a:visited {
+	display: none;
+	visibility: hidden;
+}
+#ribbon a:hover {
+	display: none;
+	visibility: hidden;
+}
+#ribbon a:active {
+	display: none;
+	visibility: hidden;
+}
+#relatedLinks a:link {
+	font-size: 0.8em;
+	text-decoration: none;
+	display: block;
+	margin-bottom: 5px;
+	padding: 3px;
+}
+#relatedLinks a:visited {
+	font-size: 0.8em;
+	text-decoration: none;
+	display: block;
+	margin-bottom: 5px;
+	padding: 3px;
+}
+#footer {
+	display: none;
+	visibility: hidden;
+}
+#googleComments {
+	display: none;
+	visibility: hidden;
+}
+
+
+
+
+#relatedLinks a:hover {
+	font-size: 0.8em;
+	text-decoration: none;
+	display: block;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #FBAF1D;
+	border-left: 1px solid #FDE1AF;
+	padding: 3px;
+}
+#relatedLinks a:active {
+	font-size: 0.8em;
+	text-decoration: none;
+	display: block;
+	margin-bottom: 5px;
+	padding: 3px;	
+}
+#fcReferences {
+	font-size: 0.8em;
+	width: 85%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+}
+/* Image captions */
+overline {font-size: 10px; font-weight: bold; text-transform: uppercase; color: #9da7af; letter-spacing: 1px; margin-bottom:4px; display: block;}
+.ams-inline-feature {width: 200; padding: 12px; float: right; margin:0 0 16px 12px; border: solid 2px #e2e2e2; z-index: 100;}
+.ams-inline-feature img {border:none; padding: 0;}
+.ams-inline-feature-image {width: 200px; margin:4px 0 12px 0;}
+.ams-inline-left, .mt-image-left {float: left !important; margin:0 12px 16px 0 !important;}   /* mt-image = legacy */
+.ams-inline-right, .mt-image-right {float: right; margin:0 0 16px 12px;}
+.image-caption {margin-bottom: 8px; color:#666; font-size: 11px;}
+.image-credit {color: #999; font-size: 11px;}
+.imageBorder {
+	padding: 3px;
+	border: thin solid #808080;
+}

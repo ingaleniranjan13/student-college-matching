@@ -1,0 +1,607 @@
+ID,Name_of_Institute,P_or_G,City,Location,Acadmics,Fees,Infrastructure,Placement,Total,Branch
+1,IIT,G,Delhi,212,196.1,163,193.7,174,938.8,CS
+2,IIT_Bombay,G,Mumbai,210,188.1,160,199.6,161.7,919.3,CS
+3,IIT_B,G,Kharagpur,214,192.2,157,196.5,159.3,919,CS
+4,IIT_ Madras,G,Chennai,208,193.1,156,196.6,159,912.8,CS
+5,IIT_M,G,Kanpur,208,196.4,154,191,161.5,910.9,CS
+6,BITS,P,Pilani,184,181.6,156.6,184.6,165.7,872.4,CS
+7,IIT*,G,Guwahati,179.1,185.8,145.4,181.2,147.2,838.7,CS
+8,NIT_Trichy*,G,Tiruchirapalli,182.1,171.5,148.2,160.3,142,804.1,CS
+9,NIT_Surathkal,G,Mangalore,176.9,169.7,134.7,176.2,146.1,803.5,CS
+10,NIT*,G,Warangal,185,158.4,134.5,158.1,128.2,764.2,CS
+11,College Of Engineering Guindy,G,Chennai,207.8,162.5,132,131.9,126.6,760.8,CS
+12,NSIT*,G,Delhi,151,154.4,134.9,163.5,154.4,758.2,CS
+13,DTU,G,Delhi,145,163.6,132,140.4,153,733.9,CS
+14,College Of Engineering,G,Pune,164.9,150.3,130.4,148.5,139.4,733.6,CS
+15,IIIT,P,Hyderabad,149,153.8,129.8,155.3,143.8,731.6,CS
+16,PSG College Of Technology,P,Coimbatore,143.9,147.9,133.4,164.4,125.3,715,CS
+17,IIIT_A,G,Allahabad,147.5,152.9,117.6,155.1,139.5,712.6,CS
+18,MIT,P,Manipal,163,158.5,126.3,148.9,115,711.7,CS
+19,VIT University,P,Vellore,137,143.8,147,152,131,710.8,CS
+20,BIT,P,Ranchi,165,151.8,116.2,154.8,116.8,704.6,CS
+21,Indian School Of Mines,G,Dhanbad,159,178.8,135.7,112.5,116,702.1,CS
+22,University Institute Of Engg. Chandigarh Univ,P,Chandigarh,142,142.8,137.8,154.7,121.3,698.5,CS
+23,Thapar University,P,Patiala,142,148.4,130.7,147.5,118.9,687.5,CS
+24,VNIT,G,Nagpur,145,151.2,109.9,168.5,108.7,683.3,CS
+25,NIE,G,Mysore,142.4,144.9,125,147.9,107.6,667.7,CS
+26,BIT Sindri,G,Dhanbad,169,136.6,105.3,147.7,107.4,666,CS
+27,NIT*_A,G,Durgapur,162,163.7,106,126.3,102.9,660.9,CS
+28,SGS Inst Of Tech & Science,G,Indore,145.9,136.5,104.4,157.5,112.6,656.8,CS
+29,Institute Of Technology_ Nirma Universtiy,P,Ahmedabad,143.7,138.9,108.9,138.1,100.5,630,CS
+30,University College Of Engineering,G,Hyderabad,112,129.6,113.5,152.5,120.7,628.4,CS
+31,Chaitanya Bharathi Institute Of Technology,P,Hyderabad,123,118,118,155.8,104.5,619.2,CS
+32,DJ Sanghvi College Of Engineering,P,Mumbai,115,125.7,105.6,123.3,127.2,596.8,CS
+33,NMIMS,P,Mumbai,117,128.8,124.3,122.7,103.5,596.3,CS
+34,SRM Engineering College,P,Chennai,117,118.8,121.1,127.4,111.6,595.9,CS
+35,Guru Nanak Dev Engineering College,G,Ludhiana,130,113.8,121.2,138.8,91,594.9,CS
+36,Govt Model Engineering College,G,Kochi,124.3,116.7,121.8,125.1,106.7,594.6,CS
+37,Govt College Of Engineering,G,Amravati,127.6,103.1,113.9,145.2,104.7,594.4,CS
+38,Thiagarajar College Of Engineering,P,Madurai,131.6,119.3,112.1,127.9,102.7,593.6,CS
+39,MIT College Of Engineering,P,Pune,117.1,116,104.7,134.7,113.5,586,CS
+40,Bannari Amman Institute Of Technology,P,Erode,120,129.8,120.3,150.6,63.8,584.5,CS
+41,BVU College Of Engineering,P,Pune,106,130.8,82.4,145.7,117.4,582.3,CS
+42,Rungta College Of Engineering,P,Bhilai,122,129.2,100.4,133.5,91.1,576.1,CS
+43,BMS Institute Of Technology & Management,P,Bangalore,128.3,120.2,95.1,142.3,89.4,575.2,CS
+44,PES University,P,Bangalore,122,112.8,108.1,133.4,96.6,572.9,CS
+45,BMS College Of Engineering,P,Bangalore,124.2,124.8,89.1,130.5,103.8,572.4,CS
+46,KLE Dr MS Sheshgiri College Of Engg,P,Belgaum,121.7,116.7,86,153.8,89.2,567.4,CS
+47,JNNCE,P,Shimoga,127.1,127,81.8,148.7,81.8,566.4,CS
+48,Symbiosis Institute Of Technology,P,Pune,120.3,131.2,90.1,127.3,97.3,566.2,CS
+49,School Of Engineering & Technology_ Sharda University,P,Noida,127,128,106,107.9,96.8,565.7,CS
+50,K L University,P,Guntur,116,129.4,105.5,140.8,73.3,564.9,CS
+51,Faculty Of Engineering_ DIT University,P,Dehradun,117,119.7,92.3,135,100.9,564.8,CS
+52,Walchand College Of Engineering,P,Sangli,111.7,127.9,99.7,134.5,90.9,564.6,CS
+53,Galgotias College Of Engineering And Technology,P,Noida,126.2,110.6,97.3,133.2,96.1,563.4,CS
+54,Sri Sairam Engineering College,P,Chennai,114.4,129.1,91,138.5,89.6,562.5,CS
+55,Sri Jayachamarajendra College Of Engineering,G,Mysore,102,123.9,99,134.9,102.2,561.9,CS
+56,Sanjivani College Of Engineering,P,Ahmednagar,116,124.3,107.1,136.1,77.8,561.4,CS
+57,Cummins College of Engineering for Women,P,Pune,122,126.4,90.1,124.8,96.4,559.6,CS
+58,Shri Ramdeobaba College Of Engg,P,Nagpur,115.4,123.9,101,129.8,89,559.1,CS
+59,SDM College Of Engineering,P,Dharwad,129,128.7,106.7,110.6,83.8,558.7,CS
+60,Sir M Visvesvaraya Institute Of Technology,P,Bangalore,123.5,104.6,103.6,125.8,101.1,558.5,CS
+61,MVJ College Of Engineering,P,Bangalore,122.5,111.8,80.3,156,87.7,558.3,CS
+62,Army Institute Of Technology,P,Pune,107,111.6,98.3,140.7,100.3,557.8,CS
+63,Rajagiri School Of Engineering & Technology,P,Ernakulam,115,113,103.3,135.9,89.7,556.8,CS
+64,The Northcap University,P,Gurgaon,110.9,132.6,77.6,129.9,105.5,556.6,CS
+65,Muffakham Jah College Of Engineering And Technology,P,Hyderabad,117.9,121.1,96.9,128.3,92.3,556.4,CS
+66,National Institute Of Science & Technology,P,Berhampur,110.9,121.2,92.8,140,91.2,556.1,CS
+67,Indraprastha Institute Of IT,G,Delhi,109,114.7,96.9,149.2,85.6,555.5,CS
+68,SCMS School Of Engineering,P,Ernakulam,105.9,116.4,92.2,137.3,103.6,555.4,CS
+69,Lakshmi Narain College Of Technology,P,Bhopal,104,148.9,91,140.2,70.5,554.6,CS
+70,Sikkim Manipal Institute Of Technology,P,Sikkim,112.9,107.4,94.7,138.7,100.9,554.6,CS
+71,JSS Academy Of Technical Education,P,Bangalore,122,117.4,95,128.4,91.2,553.9,CS
+72,Amity School Of Engineering & Technology,P,Noida,115.6,109.4,95.7,123.4,108,552,CS
+73,Maharashtra Institute Of Technology,P,Aurangabad,120,107.3,98.6,131,94.9,551.8,CS
+74,DY Patil College of Engineering,P,Akrudi,121,109.7,107.5,107.3,106.3,551.8,CS
+75,IMS Engineering College,P,Ghaziabad,110,111.6,102.8,125.2,101.3,551,CS
+76,JIS College Of Engineering,P,Bengal,126.1,126.4,79.7,100.5,115.8,548.4,CS
+77,SS College of Engineering,P,Bangalore,110,109.1,100.3,133.7,95.2,548.3,CS
+78,GL Bajaj Institute Of Technology & Management,P,Noida,105,109.4,96.6,133.2,104,548.1,CS
+79,Jaipur Engineering College And Research Center,P,Jaipur,105.5,107.7,112.8,119.1,102.7,547.8,CS
+80,J.B.Institute Of Technology,P,Dehradun,115.6,118.6,70,145.6,97.2,547,CS
+81,PES College Of Engineering,P,Mandya,111.8,104.7,105.7,146.1,78.7,546.9,CS
+82,SSN College Of Engineering,P,Kalavakkam,99,100.9,99.4,132.8,112.8,545,CS
+83,Kongu Engg. College,P,Erode,104,114.7,118.3,124.9,83.1,545,CS
+84,Sona College Of Technology,P,Salem,103,119.6,119.8,111.5,89.6,543.5,CS
+85,RMK Engineering College,P,Kavaripettai,114.2,103.2,97.2,125,99.5,539,CS
+86,S.A. Engineering College,P,Chennai,105.3,111.8,101.4,136.4,83.6,538.4,CS
+87,Asia Pacific Inst of Information Tech,P,Panipat,112.7,104.6,81.8,140.7,94.9,534.5,CS
+88,UIET,P,Chandigarh,110.1,121.9,104.9,136,58.9,531.8,CS
+89,Veltech High Tech Engineering College,P,Chennai,132.4,116.6,112.6,113.2,56.3,531.1,CS
+90,CVR College Of Engineering,P,Hyderabad,110.1,121.6,84.7,132.4,80.4,529.3,CS
+91,Kuppam Engineering College,P,Kuppam,107,102,83.2,146.6,90.3,529.1,CS
+92,KLS Gogte Institute Of Technology,P,Belagavi,85,119.2,84.6,130.8,95.1,514.7,CS
+93,Malla Reddy College of Engineering & Technology,P,Secunderabd,108.7,101.2,111.7,122.3,70.7,514.7,CS
+94,VI of Information Technology (BRACTS),P,Pune,119,101.8,86.8,111.6,95.1,514.2,CS
+95,IES College Of Technology,P,Bhopal,100,116.7,87.2,134.3,75.6,513.8,CS
+96,Vishwakarma Institute of Technology,P,Pune,105,100.1,103.4,108.7,95.5,512.6,CS
+97,Institute Of Engg & Tech_ J.K.Lakshmipat Univ,P,Jaipur,80,117.1,112.1,146.1,56.8,512,CS
+98,Shri Shankaracharya Technical Campus,P,Bhilai,97.5,109.8,86,126,92.7,511.9,CS
+99,Madhav Institute of Technology & Science,G,Gwalior,110.3,100.9,107,136.9,56.6,511.6,CS
+100,Sathyabama University,P,Chennai,99.8,106.3,119,126.7,58.1,509.8,CS
+101,IIT,G,Delhi,212,196.1,163,193.7,174,938.8,IT
+102,IIT Bombay,G,Mumbai,210,188.1,160,199.6,161.7,919.3,IT
+103,IIT,G,Kharagpur,214,192.2,157,196.5,159.3,919,IT
+104,IIT  Madras,G,Chennai,208,193.1,156,196.6,159,912.8,IT
+105,IIT,G,Kanpur,208,196.4,154,191,161.5,910.9,IT
+106,BITS,P,Pilani,184,181.6,156.6,184.6,165.7,872.4,IT
+107,IIT*,G,Guwahati,179.1,185.8,145.4,181.2,147.2,838.7,IT
+108,NIT Trichy*,G,Tiruchirapalli,182.1,171.5,148.2,160.3,142,804.1,IT
+109,NIT Surathkal,G,Mangalore,176.9,169.7,134.7,176.2,146.1,803.5,IT
+110,NIT*,G,Warangal,185,158.4,134.5,158.1,128.2,764.2,IT
+111,College Of Engineering_ Guindy,G,Chennai,207.8,162.5,132,131.9,126.6,760.8,IT
+112,NSIT*,G,Delhi,151,154.4,134.9,163.5,154.4,758.2,IT
+113,DTU,G,Delhi,145,163.6,132,140.4,153,733.9,IT
+114,College Of Engineering,G,Pune,164.9,150.3,130.4,148.5,139.4,733.6,IT
+115,IIIT,P,Hyderabad,149,153.8,129.8,155.3,143.8,731.6,IT
+116,PSG College Of Technology,P,Coimbatore,143.9,147.9,133.4,164.4,125.3,715,IT
+117,IIIT,G,Allahabad,147.5,152.9,117.6,155.1,139.5,712.6,IT
+118,MIT,P,Manipal,163,158.5,126.3,148.9,115,711.7,IT
+119,VIT University,P,Vellore,137,143.8,147,152,131,710.8,IT
+120,BIT,P,Ranchi,165,151.8,116.2,154.8,116.8,704.6,IT
+121,Indian School Of Mines,G,Dhanbad,159,178.8,135.7,112.5,116,702.1,IT
+122,University Institute Of Engg. Chandigarh Univ,P,Chandigarh,142,142.8,137.8,154.7,121.3,698.5,IT
+123,Thapar University,P,Patiala,142,148.4,130.7,147.5,118.9,687.5,IT
+124,VNIT,G,Nagpur,145,151.2,109.9,168.5,108.7,683.3,IT
+125,NIE,G,Mysore,142.4,144.9,125,147.9,107.6,667.7,IT
+126,BIT Sindri,G,Dhanbad,169,136.6,105.3,147.7,107.4,666,IT
+127,NIT*,G,Durgapur,162,163.7,106,126.3,102.9,660.9,IT
+128,SGS Inst Of Tech & Science,G,Indore,145.9,136.5,104.4,157.5,112.6,656.8,IT
+129,Institute Of Technology_ Nirma Universtiy,P,Ahmedabad,143.7,138.9,108.9,138.1,100.5,630,IT
+130,University College Of Engineering,G,Hyderabad,112,129.6,113.5,152.5,120.7,628.4,IT
+131,Chaitanya Bharathi Institute Of Technology,P,Hyderabad,123,118,118,155.8,104.5,619.2,IT
+132,DJ Sanghvi College Of Engineering,P,Mumbai,115,125.7,105.6,123.3,127.2,596.8,IT
+133,NMIMS,P,Mumbai,117,128.8,124.3,122.7,103.5,596.3,IT
+134,SRM Engineering College,P,Chennai,117,118.8,121.1,127.4,111.6,595.9,IT
+135,Guru Nanak Dev Engineering College,G,Ludhiana,130,113.8,121.2,138.8,91,594.9,IT
+136,Govt Model Engineering College,G,Kochi,124.3,116.7,121.8,125.1,106.7,594.6,IT
+137,Govt College Of Engineering,G,Amravati,127.6,103.1,113.9,145.2,104.7,594.4,IT
+138,Thiagarajar College Of Engineering,P,Madurai,131.6,119.3,112.1,127.9,102.7,593.6,IT
+139,MIT College Of Engineering,P,Pune,117.1,116,104.7,134.7,113.5,586,IT
+140,Bannari Amman Institute Of Technology,P,Erode,120,129.8,120.3,150.6,63.8,584.5,IT
+141,BVU College Of Engineering,P,Pune,106,130.8,82.4,145.7,117.4,582.3,IT
+142,Kongu Engineering College,P,Erode,104.1,123.7,118.3,138.9,91.1,576.1,IT
+143,Rungta College Of Engineering,P,Bhilai,122,129.2,100.4,133.5,91.1,576.1,IT
+144,BMS Institute Of Technology & Management,P,Bangalore,128.3,120.2,95.1,142.3,89.4,575.2,IT
+145,PES University,P,Bangalore,122,112.8,108.1,133.4,96.6,572.9,IT
+146,BMS College Of Engineering,P,Bangalore,124.2,124.8,89.1,130.5,103.8,572.4,IT
+147,KLE Dr MS Sheshgiri College Of Engg,P,Belgaum,121.7,116.7,86,153.8,89.2,567.4,IT
+148,JNNCE,P,Shimoga,127.1,127,81.8,148.7,81.8,566.4,IT
+149,Symbiosis Institute Of Technology,P,Pune,120.3,131.2,90.1,127.3,97.3,566.2,IT
+150,School Of Engineering & Technology_ Sharda University,P,Noida,127,128,106,107.9,96.8,565.7,IT
+151,K L University,P,Guntur,116,129.4,105.5,140.8,73.3,564.9,IT
+152,Faculty Of Engineering_ DIT University,P,Dehradun,117,119.7,92.3,135,100.9,564.8,IT
+153,Walchand College Of Engineering,P,Sangli,111.7,127.9,99.7,134.5,90.9,564.6,IT
+154,Galgotias College Of Engineering And Technology,P,Noida,126.2,110.6,97.3,133.2,96.1,563.4,IT
+155,Sri Sairam Engineering College,P,Chennai,114.4,129.1,91,138.5,89.6,562.5,IT
+156,Sri Jayachamarajendra College Of Engineering,G,Mysore,102,123.9,99,134.9,102.2,561.9,IT
+157,Sanjivani College Of Engineering,P,Ahmednagar,116,124.3,107.1,136.1,77.8,561.4,IT
+158,Cummins College of Engineering for Women,P,Pune,122,126.4,90.1,124.8,96.4,559.6,IT
+159,Shri Ramdeobaba College Of Engg,P,Nagpur,115.4,123.9,101,129.8,89,559.1,IT
+160,SDM College Of Engineering,P,Dharwad,129,128.7,106.7,110.6,83.8,558.7,IT
+161,Sir M Visvesvaraya Institute Of Technology,P,Bangalore,123.5,104.6,103.6,125.8,101.1,558.5,IT
+162,MVJ College Of Engineering,P,Bangalore,122.5,111.8,80.3,156,87.7,558.3,IT
+163,Army Institute Of Technology,P,Pune,107,111.6,98.3,140.7,100.3,557.8,IT
+164,Rajagiri School Of Engineering & Technology,P,Ernakulam,115,113,103.3,135.9,89.7,556.8,IT
+165,The Northcap University,P,Gurgaon,110.9,132.6,77.6,129.9,105.5,556.6,IT
+166,Muffakham Jah College Of Engineering And Technology,P,Hyderabad,117.9,121.1,96.9,128.3,92.3,556.4,IT
+167,National Institute Of Science & Technology,P,Berhampur,110.9,121.2,92.8,140,91.2,556.1,IT
+168,Indraprastha Institute Of IT,G,Delhi,109,114.7,96.9,149.2,85.6,555.5,IT
+169,SCMS School Of Engineering,P,Ernakulam,105.9,116.4,92.2,137.3,103.6,555.4,IT
+170,Lakshmi Narain College Of Technology,P,Bhopal,104,148.9,91,140.2,70.5,554.6,IT
+171,Sikkim Manipal Institute Of Technology,P,Sikkim,112.9,107.4,94.7,138.7,100.9,554.6,IT
+172,JSS Academy Of Technical Education,P,Bangalore,122,117.4,95,128.4,91.2,553.9,IT
+173,Amity School Of Engineering & Technology,P,Noida,115.6,109.4,95.7,123.4,108,552,IT
+174,Maharashtra Institute Of Technology,P,Aurangabad,120,107.3,98.6,131,94.9,551.8,IT
+175,DY Patil College of Engineering,P,Akrudi,121,109.7,107.5,107.3,106.3,551.8,IT
+176,IMS Engineering College,P,Ghaziabad,110,111.6,102.8,125.2,101.3,551,IT
+177,JIS College Of Engineering,P,Bengal,126.1,126.4,79.7,100.5,115.8,548.4,IT
+178,SS College of Engineering,P,Bangalore,110,109.1,100.3,133.7,95.2,548.3,IT
+179,GL Bajaj Institute Of Technology & Management,P,Noida,105,109.4,96.6,133.2,104,548.1,IT
+180,Jaipur Engineering College And Research Center,P,Jaipur,105.5,107.7,112.8,119.1,102.7,547.8,IT
+181,J.B.Institute Of Technology,P,Dehradun,115.6,118.6,70,145.6,97.2,547,IT
+182,PES College Of Engineering,P,Mandya,111.8,104.7,105.7,146.1,78.7,546.9,IT
+183,SSN College Of Engineering,P,Kalavakkam,99,100.9,99.4,132.8,112.8,545,IT
+184,Kongu Engg. College,P,Erode,104,114.7,118.3,124.9,83.1,545,IT
+185,Sona College Of Technology,P,Salem,103,119.6,119.8,111.5,89.6,543.5,IT
+186,RMK Engineering College,P,Kavaripettai,114.2,103.2,97.2,125,99.5,539,IT
+187,S.A. Engineering College,P,Chennai,105.3,111.8,101.4,136.4,83.6,538.4,IT
+188,Asia Pacific Inst of Information Tech,P,Panipat,112.7,104.6,81.8,140.7,94.9,534.5,IT
+189,UIET,P,Chandigarh,110.1,121.9,104.9,136,58.9,531.8,IT
+190,Veltech High Tech Engineering College,P,Chennai,132.4,116.6,112.6,113.2,56.3,531.1,IT
+191,CVR College Of Engineering,P,Hyderabad,110.1,121.6,84.7,132.4,80.4,529.3,IT
+192,Kuppam Engineering College,P,Kuppam,107,102,83.2,146.6,90.3,529.1,IT
+193,KLS Gogte Institute Of Technology,P,Belagavi,85,119.2,84.6,130.8,95.1,514.7,IT
+194,Malla Reddy College of Engineering & Technology,P,Secunderabd,108.7,101.2,111.7,122.3,70.7,514.7,IT
+195,VI of Information Technology (BRACTS),P,Pune,119,101.8,86.8,111.6,95.1,514.2,IT
+196,IES College Of Technology,P,Bhopal,100,116.7,87.2,134.3,75.6,513.8,IT
+197,Vishwakarma Institute of Technology,P,Pune,105,100.1,103.4,108.7,95.5,512.6,IT
+198,Institute Of Engg & Tech_ J.K.Lakshmipat Univ,P,Jaipur,80,117.1,112.1,146.1,56.8,512,IT
+199,Shri Shankaracharya Technical Campus,P,Bhilai,97.5,109.8,86,126,92.7,511.9,IT
+200,Madhav Institute of Technology & Science,G,Gwalior,110.3,100.9,107,136.9,56.6,511.6,IT
+201,Sathyabama University,P,Chennai,99.8,106.3,119,126.7,58.1,509.8,IT
+202,IIT,G,Delhi,212,196.1,163,193.7,174,938.8,MECH
+203,IIT Bombay,G,Mumbai,210,188.1,160,199.6,161.7,919.3,MECH
+204,IIT,G,Kharagpur,214,192.2,157,196.5,159.3,919,MECH
+205,IIT Madras,G,Chennai,208,193.1,156,196.6,159,912.8,MECH
+206,IIT,G,Kanpur,208,196.4,154,191,161.5,910.9,MECH
+207,BITS,P,Pilani,184,181.6,156.6,184.6,165.7,872.4,MECH
+208,IIT*,G,Guwahati,179.1,185.8,145.4,181.2,147.2,838.7,MECH
+209,NIT Trichy*,G,Tiruchirapalli,182.1,171.5,148.2,160.3,142,804.1,MECH
+210,NIT Surathkal,G,Mangalore,176.9,169.7,134.7,176.2,146.1,803.5,MECH
+211,NIT*,G,Warangal,185,158.4,134.5,158.1,128.2,764.2,MECH
+212,College Of Engineering_ Guindy,G,Chennai,207.8,162.5,132,131.9,126.6,760.8,MECH
+213,NSIT*,G,Delhi,151,154.4,134.9,163.5,154.4,758.2,MECH
+214,DTU,G,Delhi,145,163.6,132,140.4,153,733.9,MECH
+215,College Of Engineering,G,Pune,164.9,150.3,130.4,148.5,139.4,733.6,MECH
+216,IIIT,P,Hyderabad,149,153.8,129.8,155.3,143.8,731.6,MECH
+217,PSG College Of Technology,P,Coimbatore,143.9,147.9,133.4,164.4,125.3,715,MECH
+218,IIIT,G,Allahabad,147.5,152.9,117.6,155.1,139.5,712.6,MECH
+219,MIT,P,Manipal,163,158.5,126.3,148.9,115,711.7,MECH
+220,VIT University,P,Vellore,137,143.8,147,152,131,710.8,MECH
+221,BIT,P,Ranchi,165,151.8,116.2,154.8,116.8,704.6,MECH
+222,Indian School Of Mines,G,Dhanbad,159,178.8,135.7,112.5,116,702.1,MECH
+223,University Institute Of Engg. Chandigarh Univ,P,Chandigarh,142,142.8,137.8,154.7,121.3,698.5,MECH
+224,Thapar University,P,Patiala,142,148.4,130.7,147.5,118.9,687.5,MECH
+225,VNIT,G,Nagpur,145,151.2,109.9,168.5,108.7,683.3,MECH
+226,NIE,G,Mysore,142.4,144.9,125,147.9,107.6,667.7,MECH
+227,BIT Sindri,G,Dhanbad,169,136.6,105.3,147.7,107.4,666,MECH
+228,NIT*,G,Durgapur,162,163.7,106,126.3,102.9,660.9,MECH
+229,SGS Inst Of Tech & Science,G,Indore,145.9,136.5,104.4,157.5,112.6,656.8,MECH
+230,Institute Of Technology_ Nirma Universtiy,P,Ahmedabad,143.7,138.9,108.9,138.1,100.5,630,MECH
+231,University College Of Engineering,G,Hyderabad,112,129.6,113.5,152.5,120.7,628.4,MECH
+232,Chaitanya Bharathi Institute Of Technology,P,Hyderabad,123,118,118,155.8,104.5,619.2,MECH
+233,DJ Sanghvi College Of Engineering,P,Mumbai,115,125.7,105.6,123.3,127.2,596.8,MECH
+234,NMIMS,P,Mumbai,117,128.8,124.3,122.7,103.5,596.3,MECH
+235,SRM Engineering College,P,Chennai,117,118.8,121.1,127.4,111.6,595.9,MECH
+236,Guru Nanak Dev Engineering College,G,Ludhiana,130,113.8,121.2,138.8,91,594.9,MECH
+237,Govt Model Engineering College,G,Kochi,124.3,116.7,121.8,125.1,106.7,594.6,MECH
+238,Govt College Of Engineering,G,Amravati,127.6,103.1,113.9,145.2,104.7,594.4,MECH
+239,Thiagarajar College Of Engineering,P,Madurai,131.6,119.3,112.1,127.9,102.7,593.6,MECH
+240,MIT College Of Engineering,P,Pune,117.1,116,104.7,134.7,113.5,586,MECH
+241,Bannari Amman Institute Of Technology,P,Erode,120,129.8,120.3,150.6,63.8,584.5,MECH
+242,BVU College Of Engineering,P,Pune,106,130.8,82.4,145.7,117.4,582.3,MECH
+243,Kongu Engineering College,P,Erode,104.1,123.7,118.3,138.9,91.1,576.1,MECH
+244,Rungta College Of Engineering,P,Bhilai,122,129.2,100.4,133.5,91.1,576.1,MECH
+245,BMS Institute Of Technology & Management,P,Bangalore,128.3,120.2,95.1,142.3,89.4,575.2,MECH
+246,PES University,P,Bangalore,122,112.8,108.1,133.4,96.6,572.9,MECH
+247,BMS College Of Engineering,P,Bangalore,124.2,124.8,89.1,130.5,103.8,572.4,MECH
+248,KLE Dr MS Sheshgiri College Of Engg,P,Belgaum,121.7,116.7,86,153.8,89.2,567.4,MECH
+249,JNNCE,P,Shimoga,127.1,127,81.8,148.7,81.8,566.4,MECH
+250,Symbiosis Institute Of Technology,P,Pune,120.3,131.2,90.1,127.3,97.3,566.2,MECH
+251,School Of Engineering & Technology_ Sharda University,P,Noida,127,128,106,107.9,96.8,565.7,MECH
+252,K L University,P,Guntur,116,129.4,105.5,140.8,73.3,564.9,MECH
+253,Faculty Of Engineering_ DIT University,P,Dehradun,117,119.7,92.3,135,100.9,564.8,MECH
+254,Walchand College Of Engineering,P,Sangli,111.7,127.9,99.7,134.5,90.9,564.6,MECH
+255,Galgotias College Of Engineering And Technology,P,Noida,126.2,110.6,97.3,133.2,96.1,563.4,MECH
+256,Sri Sairam Engineering College,P,Chennai,114.4,129.1,91,138.5,89.6,562.5,MECH
+257,Sri Jayachamarajendra College Of Engineering,G,Mysore,102,123.9,99,134.9,102.2,561.9,MECH
+258,Sanjivani College Of Engineering,P,Ahmednagar,116,124.3,107.1,136.1,77.8,561.4,MECH
+259,Cummins College of Engineering for Women,P,Pune,122,126.4,90.1,124.8,96.4,559.6,MECH
+260,Shri Ramdeobaba College Of Engg,P,Nagpur,115.4,123.9,101,129.8,89,559.1,MECH
+261,SDM College Of Engineering,P,Dharwad,129,128.7,106.7,110.6,83.8,558.7,MECH
+262,Sir M Visvesvaraya Institute Of Technology,P,Bangalore,123.5,104.6,103.6,125.8,101.1,558.5,MECH
+263,MVJ College Of Engineering,P,Bangalore,122.5,111.8,80.3,156,87.7,558.3,MECH
+264,Army Institute Of Technology,P,Pune,107,111.6,98.3,140.7,100.3,557.8,MECH
+265,Rajagiri School Of Engineering & Technology,P,Ernakulam,115,113,103.3,135.9,89.7,556.8,MECH
+266,The Northcap University,P,Gurgaon,110.9,132.6,77.6,129.9,105.5,556.6,MECH
+267,Muffakham Jah College Of Engineering And Technology,P,Hyderabad,117.9,121.1,96.9,128.3,92.3,556.4,MECH
+268,National Institute Of Science & Technology,P,Berhampur,110.9,121.2,92.8,140,91.2,556.1,MECH
+269,Indraprastha Institute Of IT,G,Delhi,109,114.7,96.9,149.2,85.6,555.5,MECH
+270,SCMS School Of Engineering,P,Ernakulam,105.9,116.4,92.2,137.3,103.6,555.4,MECH
+271,Lakshmi Narain College Of Technology,P,Bhopal,104,148.9,91,140.2,70.5,554.6,MECH
+272,Sikkim Manipal Institute Of Technology,P,Sikkim,112.9,107.4,94.7,138.7,100.9,554.6,MECH
+273,JSS Academy Of Technical Education,P,Bangalore,122,117.4,95,128.4,91.2,553.9,MECH
+274,Amity School Of Engineering & Technology,P,Noida,115.6,109.4,95.7,123.4,108,552,MECH
+275,Maharashtra Institute Of Technology,P,Aurangabad,120,107.3,98.6,131,94.9,551.8,MECH
+276,DY Patil College of Engineering,P,Akrudi,121,109.7,107.5,107.3,106.3,551.8,MECH
+277,IMS Engineering College,P,Ghaziabad,110,111.6,102.8,125.2,101.3,551,MECH
+278,JIS College Of Engineering,P,Bengal,126.1,126.4,79.7,100.5,115.8,548.4,MECH
+279,SS College of Engineering,P,Bangalore,110,109.1,100.3,133.7,95.2,548.3,MECH
+280,GL Bajaj Institute Of Technology & Management,P,Noida,105,109.4,96.6,133.2,104,548.1,MECH
+281,Jaipur Engineering College And Research Center,P,Jaipur,105.5,107.7,112.8,119.1,102.7,547.8,MECH
+282,J.B.Institute Of Technology,P,Dehradun,115.6,118.6,70,145.6,97.2,547,MECH
+283,PES College Of Engineering,P,Mandya,111.8,104.7,105.7,146.1,78.7,546.9,MECH
+284,SSN College Of Engineering,P,Kalavakkam,99,100.9,99.4,132.8,112.8,545,MECH
+285,Kongu Engg. College,P,Erode,104,114.7,118.3,124.9,83.1,545,MECH
+286,Sona College Of Technology,P,Salem,103,119.6,119.8,111.5,89.6,543.5,MECH
+287,RMK Engineering College,P,Kavaripettai,114.2,103.2,97.2,125,99.5,539,MECH
+288,S.A. Engineering College,P,Chennai,105.3,111.8,101.4,136.4,83.6,538.4,MECH
+289,Asia Pacific Inst of Information Tech,P,Panipat,112.7,104.6,81.8,140.7,94.9,534.5,MECH
+290,UIET,P,Chandigarh,110.1,121.9,104.9,136,58.9,531.8,MECH
+291,Veltech High Tech Engineering College,P,Chennai,132.4,116.6,112.6,113.2,56.3,531.1,MECH
+292,CVR College Of Engineering,P,Hyderabad,110.1,121.6,84.7,132.4,80.4,529.3,MECH
+293,Kuppam Engineering College,P,Kuppam,107,102,83.2,146.6,90.3,529.1,MECH
+294,KLS Gogte Institute Of Technology,P,Belagavi,85,119.2,84.6,130.8,95.1,514.7,MECH
+295,Malla Reddy College of Engineering & Technology,P,Secunderabd,108.7,101.2,111.7,122.3,70.7,514.7,MECH
+296,VI of Information Technology (BRACTS),P,Pune,119,101.8,86.8,111.6,95.1,514.2,MECH
+297,IES College Of Technology,P,Bhopal,100,116.7,87.2,134.3,75.6,513.8,MECH
+298,Vishwakarma Institute of Technology,P,Pune,105,100.1,103.4,108.7,95.5,512.6,MECH
+299,Institute Of Engg & Tech_ J.K.Lakshmipat Univ,P,Jaipur,80,117.1,112.1,146.1,56.8,512,MECH
+300,Shri Shankaracharya Technical Campus,P,Bhilai,97.5,109.8,86,126,92.7,511.9,MECH
+301,Madhav Institute of Technology & Science,G,Gwalior,110.3,100.9,107,136.9,56.6,511.6,MECH
+302,Sathyabama University,P,Chennai,99.8,106.3,119,126.7,58.1,509.8,MECH
+303,IIT,G,Delhi,212,196.1,163,193.7,174,938.8,CIV
+304,IIT Bombay,G,Mumbai,210,188.1,160,199.6,161.7,919.3,CIV
+305,IIT,G,Kharagpur,214,192.2,157,196.5,159.3,919,CIV
+306,IIT Madras,G,Chennai,208,193.1,156,196.6,159,912.8,CIV
+307,IIT,G,Kanpur,208,196.4,154,191,161.5,910.9,CIV
+308,BITS,P,Pilani,184,181.6,156.6,184.6,165.7,872.4,CIV
+309,IIT*,G,Guwahati,179.1,185.8,145.4,181.2,147.2,838.7,CIV
+310,NIT Trichy*,G,Tiruchirapalli,182.1,171.5,148.2,160.3,142,804.1,CIV
+311,NIT Surathkal,G,Mangalore,176.9,169.7,134.7,176.2,146.1,803.5,CIV
+312,NIT*,G,Warangal,185,158.4,134.5,158.1,128.2,764.2,CIV
+313,College Of Engineering_ Guindy,G,Chennai,207.8,162.5,132,131.9,126.6,760.8,CIV
+314,NSIT*,G,Delhi,151,154.4,134.9,163.5,154.4,758.2,CIV
+315,DTU,G,Delhi,145,163.6,132,140.4,153,733.9,CIV
+316,College Of Engineering,G,Pune,164.9,150.3,130.4,148.5,139.4,733.6,CIV
+317,IIIT,P,Hyderabad,149,153.8,129.8,155.3,143.8,731.6,CIV
+318,PSG College Of Technology,P,Coimbatore,143.9,147.9,133.4,164.4,125.3,715,CIV
+319,IIIT,G,Allahabad,147.5,152.9,117.6,155.1,139.5,712.6,CIV
+320,MIT,P,Manipal,163,158.5,126.3,148.9,115,711.7,CIV
+321,VIT University,P,Vellore,137,143.8,147,152,131,710.8,CIV
+322,BIT,P,Ranchi,165,151.8,116.2,154.8,116.8,704.6,CIV
+323,Indian School Of Mines,G,Dhanbad,159,178.8,135.7,112.5,116,702.1,CIV
+324,University Institute Of Engg. Chandigarh Univ,P,Chandigarh,142,142.8,137.8,154.7,121.3,698.5,CIV
+325,Thapar University,P,Patiala,142,148.4,130.7,147.5,118.9,687.5,CIV
+326,VNIT,G,Nagpur,145,151.2,109.9,168.5,108.7,683.3,CIV
+327,NIE,G,Mysore,142.4,144.9,125,147.9,107.6,667.7,CIV
+328,BIT Sindri,G,Dhanbad,169,136.6,105.3,147.7,107.4,666,CIV
+329,NIT*,G,Durgapur,162,163.7,106,126.3,102.9,660.9,CIV
+330,SGS Inst Of Tech & Science,G,Indore,145.9,136.5,104.4,157.5,112.6,656.8,CIV
+331,Institute Of Technology_ Nirma Universtiy,P,Ahmedabad,143.7,138.9,108.9,138.1,100.5,630,CIV
+332,University College Of Engineering,G,Hyderabad,112,129.6,113.5,152.5,120.7,628.4,CIV
+333,Chaitanya Bharathi Institute Of Technology,P,Hyderabad,123,118,118,155.8,104.5,619.2,CIV
+334,DJ Sanghvi College Of Engineering,P,Mumbai,115,125.7,105.6,123.3,127.2,596.8,CIV
+335,NMIMS,P,Mumbai,117,128.8,124.3,122.7,103.5,596.3,CIV
+336,SRM Engineering College,P,Chennai,117,118.8,121.1,127.4,111.6,595.9,CIV
+337,Guru Nanak Dev Engineering College,G,Ludhiana,130,113.8,121.2,138.8,91,594.9,CIV
+338,Govt Model Engineering College,G,Kochi,124.3,116.7,121.8,125.1,106.7,594.6,CIV
+339,Govt College Of Engineering,G,Amravati,127.6,103.1,113.9,145.2,104.7,594.4,CIV
+340,Thiagarajar College Of Engineering,P,Madurai,131.6,119.3,112.1,127.9,102.7,593.6,CIV
+341,MIT College Of Engineering,P,Pune,117.1,116,104.7,134.7,113.5,586,CIV
+342,Bannari Amman Institute Of Technology,P,Erode,120,129.8,120.3,150.6,63.8,584.5,CIV
+343,BVU College Of Engineering,P,Pune,106,130.8,82.4,145.7,117.4,582.3,CIV
+344,Kongu Engineering College,P,Erode,104.1,123.7,118.3,138.9,91.1,576.1,CIV
+345,Rungta College Of Engineering,P,Bhilai,122,129.2,100.4,133.5,91.1,576.1,CIV
+346,BMS Institute Of Technology & Management,P,Bangalore,128.3,120.2,95.1,142.3,89.4,575.2,CIV
+347,PES University,P,Bangalore,122,112.8,108.1,133.4,96.6,572.9,CIV
+348,BMS College Of Engineering,P,Bangalore,124.2,124.8,89.1,130.5,103.8,572.4,CIV
+349,KLE Dr MS Sheshgiri College Of Engg,P,Belgaum,121.7,116.7,86,153.8,89.2,567.4,CIV
+350,JNNCE,P,Shimoga,127.1,127,81.8,148.7,81.8,566.4,CIV
+351,Symbiosis Institute Of Technology,P,Pune,120.3,131.2,90.1,127.3,97.3,566.2,CIV
+352,School Of Engineering & Technology_ Sharda University,P,Noida,127,128,106,107.9,96.8,565.7,CIV
+353,K L University,P,Guntur,116,129.4,105.5,140.8,73.3,564.9,CIV
+354,Faculty Of Engineering_ DIT University,P,Dehradun,117,119.7,92.3,135,100.9,564.8,CIV
+355,Walchand College Of Engineering,P,Sangli,111.7,127.9,99.7,134.5,90.9,564.6,CIV
+356,Galgotias College Of Engineering And Technology,P,Noida,126.2,110.6,97.3,133.2,96.1,563.4,CIV
+357,Sri Sairam Engineering College,P,Chennai,114.4,129.1,91,138.5,89.6,562.5,CIV
+358,Sri Jayachamarajendra College Of Engineering,G,Mysore,102,123.9,99,134.9,102.2,561.9,CIV
+359,Sanjivani College Of Engineering,P,Ahmednagar,116,124.3,107.1,136.1,77.8,561.4,CIV
+360,Cummins College of Engineering for Women,P,Pune,122,126.4,90.1,124.8,96.4,559.6,CIV
+361,Shri Ramdeobaba College Of Engg,P,Nagpur,115.4,123.9,101,129.8,89,559.1,CIV
+362,SDM College Of Engineering,P,Dharwad,129,128.7,106.7,110.6,83.8,558.7,CIV
+363,Sir M Visvesvaraya Institute Of Technology,P,Bangalore,123.5,104.6,103.6,125.8,101.1,558.5,CIV
+364,MVJ College Of Engineering,P,Bangalore,122.5,111.8,80.3,156,87.7,558.3,CIV
+365,Army Institute Of Technology,P,Pune,107,111.6,98.3,140.7,100.3,557.8,CIV
+366,Rajagiri School Of Engineering & Technology,P,Ernakulam,115,113,103.3,135.9,89.7,556.8,CIV
+367,The Northcap University,P,Gurgaon,110.9,132.6,77.6,129.9,105.5,556.6,CIV
+368,Muffakham Jah College Of Engineering And Technology,P,Hyderabad,117.9,121.1,96.9,128.3,92.3,556.4,CIV
+369,National Institute Of Science & Technology,P,Berhampur,110.9,121.2,92.8,140,91.2,556.1,CIV
+370,Indraprastha Institute Of IT,G,Delhi,109,114.7,96.9,149.2,85.6,555.5,CIV
+371,SCMS School Of Engineering,P,Ernakulam,105.9,116.4,92.2,137.3,103.6,555.4,CIV
+372,Lakshmi Narain College Of Technology,P,Bhopal,104,148.9,91,140.2,70.5,554.6,CIV
+373,Sikkim Manipal Institute Of Technology,P,Sikkim,112.9,107.4,94.7,138.7,100.9,554.6,CIV
+374,JSS Academy Of Technical Education,P,Bangalore,122,117.4,95,128.4,91.2,553.9,CIV
+375,Amity School Of Engineering & Technology,P,Noida,115.6,109.4,95.7,123.4,108,552,CIV
+376,Maharashtra Institute Of Technology,P,Aurangabad,120,107.3,98.6,131,94.9,551.8,CIV
+377,DY Patil College of Engineering,P,Akrudi,121,109.7,107.5,107.3,106.3,551.8,CIV
+378,IMS Engineering College,P,Ghaziabad,110,111.6,102.8,125.2,101.3,551,CIV
+379,JIS College Of Engineering,P,Bengal,126.1,126.4,79.7,100.5,115.8,548.4,CIV
+380,SS College of Engineering,P,Bangalore,110,109.1,100.3,133.7,95.2,548.3,CIV
+381,GL Bajaj Institute Of Technology & Management,P,Noida,105,109.4,96.6,133.2,104,548.1,CIV
+382,Jaipur Engineering College And Research Center,P,Jaipur,105.5,107.7,112.8,119.1,102.7,547.8,CIV
+383,J.B.Institute Of Technology,P,Dehradun,115.6,118.6,70,145.6,97.2,547,CIV
+384,PES College Of Engineering,P,Mandya,111.8,104.7,105.7,146.1,78.7,546.9,CIV
+385,SSN College Of Engineering,P,Kalavakkam,99,100.9,99.4,132.8,112.8,545,CIV
+386,Kongu Engg. College,P,Erode,104,114.7,118.3,124.9,83.1,545,CIV
+387,Sona College Of Technology,P,Salem,103,119.6,119.8,111.5,89.6,543.5,CIV
+388,RMK Engineering College,P,Kavaripettai,114.2,103.2,97.2,125,99.5,539,CIV
+389,S.A. Engineering College,P,Chennai,105.3,111.8,101.4,136.4,83.6,538.4,CIV
+390,Asia Pacific Inst of Information Tech,P,Panipat,112.7,104.6,81.8,140.7,94.9,534.5,CIV
+391,UIET,P,Chandigarh,110.1,121.9,104.9,136,58.9,531.8,CIV
+392,Veltech High Tech Engineering College,P,Chennai,132.4,116.6,112.6,113.2,56.3,531.1,CIV
+393,CVR College Of Engineering,P,Hyderabad,110.1,121.6,84.7,132.4,80.4,529.3,CIV
+394,Kuppam Engineering College,P,Kuppam,107,102,83.2,146.6,90.3,529.1,CIV
+395,KLS Gogte Institute Of Technology,P,Belagavi,85,119.2,84.6,130.8,95.1,514.7,CIV
+396,Malla Reddy College of Engineering & Technology,P,Secunderabd,108.7,101.2,111.7,122.3,70.7,514.7,CIV
+397,VI of Information Technology (BRACTS),P,Pune,119,101.8,86.8,111.6,95.1,514.2,CIV
+398,IES College Of Technology,P,Bhopal,100,116.7,87.2,134.3,75.6,513.8,CIV
+399,Vishwakarma Institute of Technology,P,Pune,105,100.1,103.4,108.7,95.5,512.6,CIV
+400,Institute Of Engg & Tech_ J.K.Lakshmipat Univ,P,Jaipur,80,117.1,112.1,146.1,56.8,512,CIV
+401,Shri Shankaracharya Technical Campus,P,Bhilai,97.5,109.8,86,126,92.7,511.9,CIV
+402,Madhav Institute of Technology & Science,G,Gwalior,110.3,100.9,107,136.9,56.6,511.6,CIV
+403,Sathyabama University,P,Chennai,99.8,106.3,119,126.7,58.1,509.8,CIV
+404,IIT,G,Delhi,212,196.1,163,193.7,174,938.8,ENTC
+405,IIT Bombay,G,Mumbai,210,188.1,160,199.6,161.7,919.3,ENTC
+406,IIT,G,Kharagpur,214,192.2,157,196.5,159.3,919,ENTC
+407,IIT Madras,G,Chennai,208,193.1,156,196.6,159,912.8,ENTC
+408,IIT,G,Kanpur,208,196.4,154,191,161.5,910.9,ENTC
+409,BITS,P,Pilani,184,181.6,156.6,184.6,165.7,872.4,ENTC
+410,IIT*,G,Guwahati,179.1,185.8,145.4,181.2,147.2,838.7,ENTC
+411,NIT Trichy*,G,Tiruchirapalli,182.1,171.5,148.2,160.3,142,804.1,ENTC
+412,NIT Surathkal,G,Mangalore,176.9,169.7,134.7,176.2,146.1,803.5,ENTC
+413,NIT*,G,Warangal,185,158.4,134.5,158.1,128.2,764.2,ENTC
+414,College Of Engineering_ Guindy,G,Chennai,207.8,162.5,132,131.9,126.6,760.8,ENTC
+415,NSIT*,G,Delhi,151,154.4,134.9,163.5,154.4,758.2,ENTC
+416,DTU,G,Delhi,145,163.6,132,140.4,153,733.9,ENTC
+417,College Of Engineering,G,Pune,164.9,150.3,130.4,148.5,139.4,733.6,ENTC
+418,IIIT,P,Hyderabad,149,153.8,129.8,155.3,143.8,731.6,ENTC
+419,PSG College Of Technology,P,Coimbatore,143.9,147.9,133.4,164.4,125.3,715,ENTC
+420,IIIT,G,Allahabad,147.5,152.9,117.6,155.1,139.5,712.6,ENTC
+421,MIT,P,Manipal,163,158.5,126.3,148.9,115,711.7,ENTC
+422,VIT University,P,Vellore,137,143.8,147,152,131,710.8,ENTC
+423,BIT,P,Ranchi,165,151.8,116.2,154.8,116.8,704.6,ENTC
+424,Indian School Of Mines,G,Dhanbad,159,178.8,135.7,112.5,116,702.1,ENTC
+425,University Institute Of Engg. Chandigarh Univ,P,Chandigarh,142,142.8,137.8,154.7,121.3,698.5,ENTC
+426,Thapar University,P,Patiala,142,148.4,130.7,147.5,118.9,687.5,ENTC
+427,VNIT,G,Nagpur,145,151.2,109.9,168.5,108.7,683.3,ENTC
+428,NIE,G,Mysore,142.4,144.9,125,147.9,107.6,667.7,ENTC
+429,BIT Sindri,G,Dhanbad,169,136.6,105.3,147.7,107.4,666,ENTC
+430,NIT*,G,Durgapur,162,163.7,106,126.3,102.9,660.9,ENTC
+431,SGS Inst Of Tech & Science,G,Indore,145.9,136.5,104.4,157.5,112.6,656.8,ENTC
+432,Institute Of Technology_ Nirma Universtiy,P,Ahmedabad,143.7,138.9,108.9,138.1,100.5,630,ENTC
+433,University College Of Engineering,G,Hyderabad,112,129.6,113.5,152.5,120.7,628.4,ENTC
+434,Chaitanya Bharathi Institute Of Technology,P,Hyderabad,123,118,118,155.8,104.5,619.2,ENTC
+435,DJ Sanghvi College Of Engineering,P,Mumbai,115,125.7,105.6,123.3,127.2,596.8,ENTC
+436,NMIMS,P,Mumbai,117,128.8,124.3,122.7,103.5,596.3,ENTC
+437,SRM Engineering College,P,Chennai,117,118.8,121.1,127.4,111.6,595.9,ENTC
+438,Guru Nanak Dev Engineering College,G,Ludhiana,130,113.8,121.2,138.8,91,594.9,ENTC
+439,Govt Model Engineering College,G,Kochi,124.3,116.7,121.8,125.1,106.7,594.6,ENTC
+440,Govt College Of Engineering,G,Amravati,127.6,103.1,113.9,145.2,104.7,594.4,ENTC
+441,Thiagarajar College Of Engineering,P,Madurai,131.6,119.3,112.1,127.9,102.7,593.6,ENTC
+442,MIT College Of Engineering,P,Pune,117.1,116,104.7,134.7,113.5,586,ENTC
+443,Bannari Amman Institute Of Technology,P,Erode,120,129.8,120.3,150.6,63.8,584.5,ENTC
+444,BVU College Of Engineering,P,Pune,106,130.8,82.4,145.7,117.4,582.3,ENTC
+445,Kongu Engineering College,P,Erode,104.1,123.7,118.3,138.9,91.1,576.1,ENTC
+446,Rungta College Of Engineering,P,Bhilai,122,129.2,100.4,133.5,91.1,576.1,ENTC
+447,BMS Institute Of Technology & Management,P,Bangalore,128.3,120.2,95.1,142.3,89.4,575.2,ENTC
+448,PES University,P,Bangalore,122,112.8,108.1,133.4,96.6,572.9,ENTC
+449,BMS College Of Engineering,P,Bangalore,124.2,124.8,89.1,130.5,103.8,572.4,ENTC
+450,KLE Dr MS Sheshgiri College Of Engg,P,Belgaum,121.7,116.7,86,153.8,89.2,567.4,ENTC
+451,JNNCE,P,Shimoga,127.1,127,81.8,148.7,81.8,566.4,ENTC
+452,Symbiosis Institute Of Technology,P,Pune,120.3,131.2,90.1,127.3,97.3,566.2,ENTC
+453,School Of Engineering & Technology_ Sharda University,P,Noida,127,128,106,107.9,96.8,565.7,ENTC
+454,K L University,P,Guntur,116,129.4,105.5,140.8,73.3,564.9,ENTC
+455,Faculty Of Engineering_ DIT University,P,Dehradun,117,119.7,92.3,135,100.9,564.8,ENTC
+456,Walchand College Of Engineering,P,Sangli,111.7,127.9,99.7,134.5,90.9,564.6,ENTC
+457,Galgotias College Of Engineering And Technology,P,Noida,126.2,110.6,97.3,133.2,96.1,563.4,ENTC
+458,Sri Sairam Engineering College,P,Chennai,114.4,129.1,91,138.5,89.6,562.5,ENTC
+459,Sri Jayachamarajendra College Of Engineering,G,Mysore,102,123.9,99,134.9,102.2,561.9,ENTC
+460,Sanjivani College Of Engineering,P,Ahmednagar,116,124.3,107.1,136.1,77.8,561.4,ENTC
+461,Cummins College of Engineering for Women,P,Pune,122,126.4,90.1,124.8,96.4,559.6,ENTC
+462,Shri Ramdeobaba College Of Engg,P,Nagpur,115.4,123.9,101,129.8,89,559.1,ENTC
+463,SDM College Of Engineering,P,Dharwad,129,128.7,106.7,110.6,83.8,558.7,ENTC
+464,Sir M Visvesvaraya Institute Of Technology,P,Bangalore,123.5,104.6,103.6,125.8,101.1,558.5,ENTC
+465,MVJ College Of Engineering,P,Bangalore,122.5,111.8,80.3,156,87.7,558.3,ENTC
+466,Army Institute Of Technology,P,Pune,107,111.6,98.3,140.7,100.3,557.8,ENTC
+467,Rajagiri School Of Engineering & Technology,P,Ernakulam,115,113,103.3,135.9,89.7,556.8,ENTC
+468,The Northcap University,P,Gurgaon,110.9,132.6,77.6,129.9,105.5,556.6,ENTC
+469,Muffakham Jah College Of Engineering And Technology,P,Hyderabad,117.9,121.1,96.9,128.3,92.3,556.4,ENTC
+470,National Institute Of Science & Technology,P,Berhampur,110.9,121.2,92.8,140,91.2,556.1,ENTC
+471,Indraprastha Institute Of IT,G,Delhi,109,114.7,96.9,149.2,85.6,555.5,ENTC
+472,SCMS School Of Engineering,P,Ernakulam,105.9,116.4,92.2,137.3,103.6,555.4,ENTC
+473,Lakshmi Narain College Of Technology,P,Bhopal,104,148.9,91,140.2,70.5,554.6,ENTC
+474,Sikkim Manipal Institute Of Technology,P,Sikkim,112.9,107.4,94.7,138.7,100.9,554.6,ENTC
+475,JSS Academy Of Technical Education,P,Bangalore,122,117.4,95,128.4,91.2,553.9,ENTC
+476,Amity School Of Engineering & Technology,P,Noida,115.6,109.4,95.7,123.4,108,552,ENTC
+477,Maharashtra Institute Of Technology,P,Aurangabad,120,107.3,98.6,131,94.9,551.8,ENTC
+478,DY Patil College of Engineering,P,Akrudi,121,109.7,107.5,107.3,106.3,551.8,ENTC
+479,IMS Engineering College,P,Ghaziabad,110,111.6,102.8,125.2,101.3,551,ENTC
+480,JIS College Of Engineering,P,Bengal,126.1,126.4,79.7,100.5,115.8,548.4,ENTC
+481,SS College of Engineering,P,Bangalore,110,109.1,100.3,133.7,95.2,548.3,ENTC
+482,GL Bajaj Institute Of Technology & Management,P,Noida,105,109.4,96.6,133.2,104,548.1,ENTC
+483,Jaipur Engineering College And Research Center,P,Jaipur,105.5,107.7,112.8,119.1,102.7,547.8,ENTC
+484,J.B.Institute Of Technology,P,Dehradun,115.6,118.6,70,145.6,97.2,547,ENTC
+485,PES College Of Engineering,P,Mandya,111.8,104.7,105.7,146.1,78.7,546.9,ENTC
+486,SSN College Of Engineering,P,Kalavakkam,99,100.9,99.4,132.8,112.8,545,ENTC
+487,Kongu Engg. College,P,Erode,104,114.7,118.3,124.9,83.1,545,ENTC
+488,Sona College Of Technology,P,Salem,103,119.6,119.8,111.5,89.6,543.5,ENTC
+489,RMK Engineering College,P,Kavaripettai,114.2,103.2,97.2,125,99.5,539,ENTC
+490,S.A. Engineering College,P,Chennai,105.3,111.8,101.4,136.4,83.6,538.4,ENTC
+491,Asia Pacific Inst of Information Tech,P,Panipat,112.7,104.6,81.8,140.7,94.9,534.5,ENTC
+492,UIET,P,Chandigarh,110.1,121.9,104.9,136,58.9,531.8,ENTC
+493,Veltech High Tech Engineering College,P,Chennai,132.4,116.6,112.6,113.2,56.3,531.1,ENTC
+494,CVR College Of Engineering,P,Hyderabad,110.1,121.6,84.7,132.4,80.4,529.3,ENTC
+495,Kuppam Engineering College,P,Kuppam,107,102,83.2,146.6,90.3,529.1,ENTC
+496,KLS Gogte Institute Of Technology,P,Belagavi,85,119.2,84.6,130.8,95.1,514.7,ENTC
+497,Malla Reddy College of Engineering & Technology,P,Secunderabd,108.7,101.2,111.7,122.3,70.7,514.7,ENTC
+498,VI of Information Technology (BRACTS),P,Pune,119,101.8,86.8,111.6,95.1,514.2,ENTC
+499,IES College Of Technology,P,Bhopal,100,116.7,87.2,134.3,75.6,513.8,ENTC
+500,Vishwakarma Institute of Technology,P,Pune,105,100.1,103.4,108.7,95.5,512.6,ENTC
+501,Institute Of Engg & Tech_ J.K.Lakshmipat Univ,P,Jaipur,80,117.1,112.1,146.1,56.8,512,ENTC
+502,Shri Shankaracharya Technical Campus,P,Bhilai,97.5,109.8,86,126,92.7,511.9,ENTC
+503,Madhav Institute of Technology & Science,G,Gwalior,110.3,100.9,107,136.9,56.6,511.6,ENTC
+504,Sathyabama University,P,Chennai,99.8,106.3,119,126.7,58.1,509.8,ENTC
+505,IIT,G,Delhi,212,196.1,163,193.7,174,938.8,ELE
+506,IIT Bombay,G,Mumbai,210,188.1,160,199.6,161.7,919.3,ELE
+507,IIT,G,Kharagpur,214,192.2,157,196.5,159.3,919,ELE
+508,IIT Madras,G,Chennai,208,193.1,156,196.6,159,912.8,ELE
+509,IIT,G,Kanpur,208,196.4,154,191,161.5,910.9,ELE
+510,BITS,P,Pilani,184,181.6,156.6,184.6,165.7,872.4,ELE
+511,IIT*,G,Guwahati,179.1,185.8,145.4,181.2,147.2,838.7,ELE
+512,NIT Trichy*,G,Tiruchirapalli,182.1,171.5,148.2,160.3,142,804.1,ELE
+513,NIT Surathkal,G,Mangalore,176.9,169.7,134.7,176.2,146.1,803.5,ELE
+514,NIT*,G,Warangal,185,158.4,134.5,158.1,128.2,764.2,ELE
+515,College Of Engineering_ Guindy,G,Chennai,207.8,162.5,132,131.9,126.6,760.8,ELE
+516,NSIT*,G,Delhi,151,154.4,134.9,163.5,154.4,758.2,ELE
+517,DTU,G,Delhi,145,163.6,132,140.4,153,733.9,ELE
+518,College Of Engineering,G,Pune,164.9,150.3,130.4,148.5,139.4,733.6,ELE
+519,IIIT,P,Hyderabad,149,153.8,129.8,155.3,143.8,731.6,ELE
+520,PSG College Of Technology,P,Coimbatore,143.9,147.9,133.4,164.4,125.3,715,ELE
+521,IIIT,G,Allahabad,147.5,152.9,117.6,155.1,139.5,712.6,ELE
+522,MIT,P,Manipal,163,158.5,126.3,148.9,115,711.7,ELE
+523,VIT University,P,Vellore,137,143.8,147,152,131,710.8,ELE
+524,BIT,P,Ranchi,165,151.8,116.2,154.8,116.8,704.6,ELE
+525,Indian School Of Mines,G,Dhanbad,159,178.8,135.7,112.5,116,702.1,ELE
+526,University Institute Of Engg. Chandigarh Univ,P,Chandigarh,142,142.8,137.8,154.7,121.3,698.5,ELE
+527,Thapar University,P,Patiala,142,148.4,130.7,147.5,118.9,687.5,ELE
+528,VNIT,G,Nagpur,145,151.2,109.9,168.5,108.7,683.3,ELE
+529,NIE,G,Mysore,142.4,144.9,125,147.9,107.6,667.7,ELE
+530,BIT Sindri,G,Dhanbad,169,136.6,105.3,147.7,107.4,666,ELE
+531,NIT*,G,Durgapur,162,163.7,106,126.3,102.9,660.9,ELE
+532,SGS Inst Of Tech & Science,G,Indore,145.9,136.5,104.4,157.5,112.6,656.8,ELE
+533,Institute Of Technology_ Nirma Universtiy,P,Ahmedabad,143.7,138.9,108.9,138.1,100.5,630,ELE
+534,University College Of Engineering,G,Hyderabad,112,129.6,113.5,152.5,120.7,628.4,ELE
+535,Chaitanya Bharathi Institute Of Technology,P,Hyderabad,123,118,118,155.8,104.5,619.2,ELE
+536,DJ Sanghvi College Of Engineering,P,Mumbai,115,125.7,105.6,123.3,127.2,596.8,ELE
+537,NMIMS,P,Mumbai,117,128.8,124.3,122.7,103.5,596.3,ELE
+538,SRM Engineering College,P,Chennai,117,118.8,121.1,127.4,111.6,595.9,ELE
+539,Guru Nanak Dev Engineering College,G,Ludhiana,130,113.8,121.2,138.8,91,594.9,ELE
+540,Govt Model Engineering College,G,Kochi,124.3,116.7,121.8,125.1,106.7,594.6,ELE
+541,Govt College Of Engineering,G,Amravati,127.6,103.1,113.9,145.2,104.7,594.4,ELE
+542,Thiagarajar College Of Engineering,P,Madurai,131.6,119.3,112.1,127.9,102.7,593.6,ELE
+543,MIT College Of Engineering,P,Pune,117.1,116,104.7,134.7,113.5,586,ELE
+544,Bannari Amman Institute Of Technology,P,Erode,120,129.8,120.3,150.6,63.8,584.5,ELE
+545,BVU College Of Engineering,P,Pune,106,130.8,82.4,145.7,117.4,582.3,ELE
+546,Kongu Engineering College,P,Erode,104.1,123.7,118.3,138.9,91.1,576.1,ELE
+547,Rungta College Of Engineering,P,Bhilai,122,129.2,100.4,133.5,91.1,576.1,ELE
+548,BMS Institute Of Technology & Management,P,Bangalore,128.3,120.2,95.1,142.3,89.4,575.2,ELE
+549,PES University,P,Bangalore,122,112.8,108.1,133.4,96.6,572.9,ELE
+550,BMS College Of Engineering,P,Bangalore,124.2,124.8,89.1,130.5,103.8,572.4,ELE
+551,KLE Dr MS Sheshgiri College Of Engg,P,Belgaum,121.7,116.7,86,153.8,89.2,567.4,ELE
+552,JNNCE,P,Shimoga,127.1,127,81.8,148.7,81.8,566.4,ELE
+553,Symbiosis Institute Of Technology,P,Pune,120.3,131.2,90.1,127.3,97.3,566.2,ELE
+554,School Of Engineering & Technology Sharda University,P,Noida,127,128,106,107.9,96.8,565.7,ELE
+555,K L University,P,Guntur,116,129.4,105.5,140.8,73.3,564.9,ELE
+556,Faculty Of Engineering DIT University,P,Dehradun,117,119.7,92.3,135,100.9,564.8,ELE
+557,Walchand College Of Engineering,P,Sangli,111.7,127.9,99.7,134.5,90.9,564.6,ELE
+558,Galgotias College Of Engineering And Technology,P,Noida,126.2,110.6,97.3,133.2,96.1,563.4,ELE
+559,Sri Sairam Engineering College,P,Chennai,114.4,129.1,91,138.5,89.6,562.5,ELE
+560,Sri Jayachamarajendra College Of Engineering,G,Mysore,102,123.9,99,134.9,102.2,561.9,ELE
+561,Sanjivani College Of Engineering,P,Ahmednagar,116,124.3,107.1,136.1,77.8,561.4,ELE
+562,Cummins College of Engineering for Women,P,Pune,122,126.4,90.1,124.8,96.4,559.6,ELE
+563,Shri Ramdeobaba College Of Engg,P,Nagpur,115.4,123.9,101,129.8,89,559.1,ELE
+564,SDM College Of Engineering,P,Dharwad,129,128.7,106.7,110.6,83.8,558.7,ELE
+565,Sir M Visvesvaraya Institute Of Technology,P,Bangalore,123.5,104.6,103.6,125.8,101.1,558.5,ELE
+566,MVJ College Of Engineering,P,Bangalore,122.5,111.8,80.3,156,87.7,558.3,ELE
+567,Army Institute Of Technology,P,Pune,107,111.6,98.3,140.7,100.3,557.8,ELE
+568,Rajagiri School Of Engineering & Technology,P,Ernakulam,115,113,103.3,135.9,89.7,556.8,ELE
+569,The Northcap University,P,Gurgaon,110.9,132.6,77.6,129.9,105.5,556.6,ELE
+570,Muffakham Jah College Of Engineering And Technology,P,Hyderabad,117.9,121.1,96.9,128.3,92.3,556.4,ELE
+571,National Institute Of Science & Technology,P,Berhampur,110.9,121.2,92.8,140,91.2,556.1,ELE
+572,Indraprastha Institute Of IT,G,Delhi,109,114.7,96.9,149.2,85.6,555.5,ELE
+573,SCMS School Of Engineering,P,Ernakulam,105.9,116.4,92.2,137.3,103.6,555.4,ELE
+574,Lakshmi Narain College Of Technology,P,Bhopal,104,148.9,91,140.2,70.5,554.6,ELE
+575,Sikkim Manipal Institute Of Technology,P,Sikkim,112.9,107.4,94.7,138.7,100.9,554.6,ELE
+576,JSS Academy Of Technical Education,P,Bangalore,122,117.4,95,128.4,91.2,553.9,ELE
+577,Amity School Of Engineering & Technology,P,Noida,115.6,109.4,95.7,123.4,108,552,ELE
+578,Maharashtra Institute Of Technology,P,Aurangabad,120,107.3,98.6,131,94.9,551.8,ELE
+579,DY Patil College of Engineering,P,Akrudi,121,109.7,107.5,107.3,106.3,551.8,ELE
+580,IMS Engineering College,P,Ghaziabad,110,111.6,102.8,125.2,101.3,551,ELE
+581,JIS College Of Engineering,P,Bengal,126.1,126.4,79.7,100.5,115.8,548.4,ELE
+582,SS College of Engineering,P,Bangalore,110,109.1,100.3,133.7,95.2,548.3,ELE
+583,GL Bajaj Institute Of Technology & Management,P,Noida,105,109.4,96.6,133.2,104,548.1,ELE
+584,Jaipur Engineering College And Research Center,P,Jaipur,105.5,107.7,112.8,119.1,102.7,547.8,ELE
+585,J.B.Institute Of Technology,P,Dehradun,115.6,118.6,70,145.6,97.2,547,ELE
+586,PES College Of Engineering,P,Mandya,111.8,104.7,105.7,146.1,78.7,546.9,ELE
+587,SSN College Of Engineering,P,Kalavakkam,99,100.9,99.4,132.8,112.8,545,ELE
+588,Kongu Engg. College,P,Erode,104,114.7,118.3,124.9,83.1,545,ELE
+589,Sona College Of Technology,P,Salem,103,119.6,119.8,111.5,89.6,543.5,ELE
+590,RMK Engineering College,P,Kavaripettai,114.2,103.2,97.2,125,99.5,539,ELE
+591,S.A. Engineering College,P,Chennai,105.3,111.8,101.4,136.4,83.6,538.4,ELE
+592,Asia Pacific Inst of Information Tech,P,Panipat,112.7,104.6,81.8,140.7,94.9,534.5,ELE
+593,UIET,P,Chandigarh,110.1,121.9,104.9,136,58.9,531.8,ELE
+594,Veltech High Tech Engineering College,P,Chennai,132.4,116.6,112.6,113.2,56.3,531.1,ELE
+595,CVR College Of Engineering,P,Hyderabad,110.1,121.6,84.7,132.4,80.4,529.3,ELE
+596,Kuppam Engineering College,P,Kuppam,107,102,83.2,146.6,90.3,529.1,ELE
+597,KLS Gogte Institute Of Technology,P,Belagavi,85,119.2,84.6,130.8,95.1,514.7,ELE
+598,Malla Reddy College of Engineering & Technology,P,Secunderabd,108.7,101.2,111.7,122.3,70.7,514.7,ELE
+599,VI of Information Technology (BRACTS),P,Pune,119,101.8,86.8,111.6,95.1,514.2,ELE
+600,IES College Of Technology,P,Bhopal,100,116.7,87.2,134.3,75.6,513.8,ELE
+601,Vishwakarma Institute of Technology,P,Pune,105,100.1,103.4,108.7,95.5,512.6,ELE
+602,Institute Of Engg & Tech_ J.K.Lakshmipat Univ,P,Jaipur,80,117.1,112.1,146.1,56.8,512,ELE
+603,Shri Shankaracharya Technical Campus,P,Bhilai,97.5,109.8,86,126,92.7,511.9,ELE
+604,Madhav Institute of Technology & Science,G,Gwalior,110.3,100.9,107,136.9,56.6,511.6,ELE
+605,Sathyabama University,P,Chennai,99.8,106.3,119,126.7,58.1,509.8,ELE
+606,Kongu Engineering College,P,Erode,104.1,123.7,118.3,138.9,91.1,576.1,CS

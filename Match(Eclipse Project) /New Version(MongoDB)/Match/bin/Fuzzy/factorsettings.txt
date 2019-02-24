@@ -1,0 +1,42 @@
+{
+	Number_of_Factors:7,
+	Number_of_Optional_Factors:3,
+	Factors:[
+			{
+				Name:"Acadmic Excellence and Quality of Education",
+				DefaultIndex:1,
+				DefaultWeight:0.3			
+			},
+			{
+				Name:"Placement",
+				DefaultIndex:2,
+				DefaultWeight:0.25			
+			},
+			{
+				Name:"Branch",
+				DefaultIndex:3,
+				DefaultWeight:0.15			
+			},
+			{
+				Name:"Infrastructure",
+				DefaultIndex:4,
+				DefaultWeight:0.1			
+			},
+			{
+				Name:"Public and Internet Opinion",
+				DefaultIndex:5,
+				DefaultWeight:0.08			
+			},
+			{
+				Name:"Fee Structure",
+				DefaultIndex:6,
+				DefaultWeight:0.07			
+			},
+			{
+				Name:"Location",
+				DefaultIndex:7,
+				DefaultWeight:0.05			
+			}	
+
+		]
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ADMIN-DASHBOARD</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css">
+</head>
+<body>
+<img class="ui small circular image" src=<%= data[0]["image"]; %>>
+<% include partials/admin-navbar.ejs %>
+<center>
+	<form class="ui form" method="POST" action="/admin-add-parameter">
+	<fieldset style="width:400px">
+	<legend>ADD PARAMETER</legend>
+  <div class="field">
+    <label>PARAMETER NAME</label>
+    <input style="width:300px" type="text" name="parameter" placeholder="PARAMETER NAME" required>
+  </div>
+  <div class="field">
+    <label>DEFAULT WEIGHT</label>
+    <input style="width:300px" type="text" name="weight" placeholder="DEFAULT WEIGHT" required>
+  </div>
+  <div class="field">
+    <label>DEFAULT INDEX</label>
+    <input style="width:300px" type="number" name="index" placeholder="DEFAULT INDEX" required>
+  </div>
+  <button class="ui teal animated button" type="submit">
+  	<span class="visible content">ADD PARAMETER</span>
+  	<span class="hidden content"><i class="right arrow icon"></i></span>
+  </button><br>
+  </fieldset>
+</form>
+</center>
+</body>
+</html>

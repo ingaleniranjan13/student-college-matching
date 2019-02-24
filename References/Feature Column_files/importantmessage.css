@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */@charset "utf-8";
+#alertMesssage {
+width: 600px;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 25px;
+}
+
+#alertBackground {
+background: #930;
+}
+#importantUpdate {
+background: #000;
+text-transform: uppercase;
+color: #FFF;
+font-size: 13px;
+font-weight: bold;
+padding: 10px;
+border: 1px solid #000;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+
+#importantMessage {
+color: #000;
+font-size: 13px;
+padding-right: 10px;
+padding-left: 10px;
+background-color: #F1EC0E;
+border: 1px solid #ccc;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+
+#importantMessage a:link {
+color: #000;
+background: transparent;
+text-decoration: none;
+}
+
+#importantMessage a:link {
+color: #000;
+background: transparent;
+text-decoration: none;
+}
+
+#importantMessage a:visited {
+color: #000;
+background: transparent;
+text-decoration: none;
+}
+
+#importantMessage a:hover {
+color: #000;
+background: transparent;
+text-decoration: underline;
+}
+
+#importantMessage a:active {
+color: #000;
+background: transparent;
+text-decoration: underline;
+}
+.dropdown {
+font-size: 0.9em;
+}
+.logoImage {
+max-width: 160px;
+clear: right;
+float: left;
+margin-bottom: 10px;
+}
+.dropdown-menu {
+font-size: 0.9em;
+}

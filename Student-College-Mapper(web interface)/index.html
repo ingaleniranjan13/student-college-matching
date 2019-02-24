@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>INDEX</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css">
+</head>
+<body>
+<center>
+<div style="padding-top:175px" class="container">
+	<form class="ui form" method="POST" action="/login">
+	<fieldset style="width:400px">
+	<legend>LOGIN</legend>
+  <div class="field">
+    <label>USERNAME / E-MAIL</label>
+    <input style="width:300px" type="text" name="username" placeholder="USERNAME / E-MAIL" required>
+  </div>
+  <div class="field">
+    <label>PASSWORD</label>
+    <input style="width:300px" type="password" name="password" placeholder="PASSWORD" required>
+  </div>
+  <button class="ui teal animated button" type="submit">
+  	<span class="visible content">LOGIN</span>
+  	<span class="hidden content"><i class="right arrow icon"></i></span>
+  </button><br>
+	<a href="/sign-up">Register Here</a>
+  </fieldset>
+</form>
+</div>
+</center>
+</body>
+</html>

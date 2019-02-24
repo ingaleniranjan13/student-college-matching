@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>REGISTER</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css">
+  <script type="text/javascript">
+    function validate()
+    {
+      if(document.getElementById("pass").value!=document.getElementById("cpass").value)
+      {
+        document.getElementById("hint").innerHTML="Passwords do not Match!";
+        return false;
+      }
+      document.getElementById("hint").innerHTML="";
+      return true;
+    }
+  </script>
+</head>
+<body>
+<center>
+<div style="padding-top:100px" class="container">
+	<form class="ui form" method="POST" action="/register" enctype="multipart/form-data">
+	<fieldset style="width:400px">
+	<legend>REGISTER</legend>
+  <div class="field">
+    <label>USERNAME</label>
+    <input style="width:300px" type="text" name="username" placeholder="USERNAME" required>
+  </div>
+  <div class="field">
+    <label>EMAIL</label>
+    <input style="width:300px" type="email" name="email" placeholder="EMAIL" required>
+  </div>
+  <div class="field">
+    <label>PASSWORD</label>
+    <input style="width:300px" type="password" id="pass" name="password" placeholder="PASSWORD" required>
+  </div>
+  <p style="color: red;" id="hint"></p>
+  <div class="field">
+    <label>CONFIRM PASSWORD</label>
+    <input style="width:300px" type="password" id="cpass" placeholder="CONFIRM PASSWORD" onkeyup="return validate();" required>
+  </div>
+  <div class="field">
+    <label>UPLOAD PHOTO<i style="color: red">(only .jpeg , .png extensions are supported.)</i></label>
+    <input style="width:300px" type="file" name="file" required>
+  </div>
+  <button class="ui teal animated button" type="submit">
+  	<span class="visible content">REGISTER</span>
+  	<span class="hidden content"><i class="right arrow icon"></i></span>
+  </button><br>
+	<a href="/">Login Here</a>
+  </fieldset>
+</form>
+</div>
+</center>
+</body>
+</html>
